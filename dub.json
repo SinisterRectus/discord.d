@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Sinister"
+	],
+	"copyright": "Copyright © 2019, Sinister",
+	"dependencies": {
+		"vibe-d": "~>0.8.4"
+	},
+	"description": "Discord API library written in D ",
+	"license": "MIT",
+	"name": "discord"
+}
